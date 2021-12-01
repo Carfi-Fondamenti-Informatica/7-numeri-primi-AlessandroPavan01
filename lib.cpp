@@ -1,6 +1,6 @@
 #include "lib.h"
 bool numeriprimi (int n, int a) {
-    if (n<o) {
+    if (n<0) {
         return false;
     }else if (n==1){
         return true;
